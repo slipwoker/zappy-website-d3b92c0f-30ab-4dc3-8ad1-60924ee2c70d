@@ -1,0 +1,84 @@
+# EVYA — Generative Engine Optimization Map
+
+> A multidisciplinary creative professional combining graphic design, advertising agency management, and video editing expertise. The brand represents a full-service creative powerhouse capable of handling visual identity, advertising campaigns, and video production under one roof.
+
+---
+
+## Pages
+
+### בית
+https://evya-d3b92c0f.zappy5.app
+EVYA מציעה שירותי עיצוב גרפי ופרסום בהתאמה אישית לעסקים. מומחיות במיתוג, קמפיינים פרסומיים ועריכת וידאו תחת קורת גג אחת. צרו איתנו קשר עוד היום להצעה מנצחת!
+
+### שירותים
+https://evya-d3b92c0f.zappy5.app/services
+מחפשים שירותי advertising graphic design מקצה לקצה? EVYA מתמחה בעיצוב זהות ויזואלית, ניהול פרסום והפקת וידאו שיווקי. קבלו פתרון יצירתי מלא שמגדיל מכירות.
+
+### אודות
+https://evya-d3b92c0f.zappy5.app/about
+הכירו את EVYA – איש מקצוע רב-תחומי בעולמות advertising graphic design. משלב ניסיון בניהול סוכנות, עריכת וידאו ואסטרטגיה קריאייטיבית. בואו לגלות מה מניע אותנו ליצור.
+
+### צור קשר
+https://evya-d3b92c0f.zappy5.app/contact
+רוצים להקפיץ את המותג עם advertising and graphic design ברמה הגבוהה ביותר? מלאו את הפרטים ונחזור אליכם עם רעיונות קריאייטיביים שיעשו את ההבדל. הדרך להצלחה מתחילה כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://evya-d3b92c0f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://evya-d3b92c0f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://evya-d3b92c0f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://evya-d3b92c0f.zappy5.app/contact
+- Endpoint: https://evya-d3b92c0f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `service` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About EVYA
+A multidisciplinary creative professional combining graphic design, advertising agency management, and video editing expertise. The brand represents a full-service creative powerhouse capable of handling visual identity, advertising campaigns, and video production under one roof.
+
+## Services/Products
+- עיצוב גרפי
+- ניהול משרד פרסום
+- עריכת וידאו
+
+## Target Audience
+- בעלי עסקים מחפשים מיתוג
+- סטארטאפים מחפשים זהות ויזואלית
+- מארגני אירועים מחפשים חומרי פרסום
+
+## Industry
+Graphic Design & Advertising
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://evya-d3b92c0f.zappy5.app/sitemap.xml
+- Robots: https://evya-d3b92c0f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://evya-d3b92c0f.zappy5.app/llms-full.txt
